@@ -1,0 +1,9 @@
+C:\Users\Enin\RiderProjects\WindowsFormsAppEasyCs62Key\WindowsFormsAppEasyCs62Key\bin\Debug\WindowsFormsAppEasyCs62Key.exe.config
+C:\Users\Enin\RiderProjects\WindowsFormsAppEasyCs62Key\WindowsFormsAppEasyCs62Key\bin\Debug\WindowsFormsAppEasyCs62Key.exe
+C:\Users\Enin\RiderProjects\WindowsFormsAppEasyCs62Key\WindowsFormsAppEasyCs62Key\bin\Debug\WindowsFormsAppEasyCs62Key.pdb
+C:\Users\Enin\RiderProjects\WindowsFormsAppEasyCs62Key\WindowsFormsAppEasyCs62Key\obj\Debug\WindowsFormsAppEasyCs62Key.csproj.AssemblyReference.cache
+C:\Users\Enin\RiderProjects\WindowsFormsAppEasyCs62Key\WindowsFormsAppEasyCs62Key\obj\Debug\WindowsFormsAppEasyCs62Key.Properties.Resources.resources
+C:\Users\Enin\RiderProjects\WindowsFormsAppEasyCs62Key\WindowsFormsAppEasyCs62Key\obj\Debug\WindowsFormsAppEasyCs62Key.csproj.GenerateResource.cache
+C:\Users\Enin\RiderProjects\WindowsFormsAppEasyCs62Key\WindowsFormsAppEasyCs62Key\obj\Debug\WindowsFormsAppEasyCs62Key.csproj.CoreCompileInputs.cache
+C:\Users\Enin\RiderProjects\WindowsFormsAppEasyCs62Key\WindowsFormsAppEasyCs62Key\obj\Debug\WindowsFormsAppEasyCs62Key.exe
+C:\Users\Enin\RiderProjects\WindowsFormsAppEasyCs62Key\WindowsFormsAppEasyCs62Key\obj\Debug\WindowsFormsAppEasyCs62Key.pdb
